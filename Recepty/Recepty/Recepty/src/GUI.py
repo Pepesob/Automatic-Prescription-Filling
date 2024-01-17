@@ -284,9 +284,12 @@ class GUI(tk.Tk):
         th.Thread(target=fuc).start()
 
     def start_program(self):
+
         if self.browser is None:
+
             try:
                 self.browser = Browser()
+
             except:
                 print("\033[91m!!! Błąd przy uruchamianiu przeglądarki  !!!\033[00m")
                 messagebox.showinfo("Błąd", "Błąd przy uruchamianiu przeglądarki!")
@@ -298,6 +301,7 @@ class GUI(tk.Tk):
             finally:
                 self.browser = None
                 self.button_start.config(text="Rozpocznij działanie programu")
+                self.disable_fill_buttons()
 
 
     def end_program(self):

@@ -17,7 +17,6 @@ import os
 class Browser:
 
     def __init__(self):
-
         self.login = ""
         self.password = ""
 
@@ -26,14 +25,14 @@ class Browser:
         self.diff_receiver_name = ""
         self.diff_receiver_surrname = ""
         self.diff_receiver_pesel = ""
-
         with open(os.path.join(os.path.dirname(__file__), "resources", "data.json")) as f:
             dict_data = json.load(f)
             self.login = dict_data["login"]
             self.password = dict_data["password"]
 
-        if self.login == "" or self.password == "":
-            return
+
+        # if self.login == "" or self.password == "": # why did I even add this here?
+        #     return
 
         # inicjalizacja
         self.path = 'resources\\chromedriver.exe'
@@ -155,6 +154,7 @@ class Browser:
         limit = self.check_limit(glasses_to_write)
 
         for i, code in glasses_to_write:
+            print(code)
             try:
                 self.wpisz_szklo(i, code, limit)
             except:
