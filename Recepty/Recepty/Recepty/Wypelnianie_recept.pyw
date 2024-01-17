@@ -1,6 +1,6 @@
 import src
 
 if __name__ == "__main__":
-    print("Automatyczne wypełnianie recept (wersja 2.2)")
+    print(f"{src.configInfo.name} (wersja {src.configInfo.version})")
     app = src.GUI()
     app.mainloop()

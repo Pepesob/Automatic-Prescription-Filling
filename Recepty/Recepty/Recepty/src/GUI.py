@@ -5,6 +5,7 @@ from tkinter import messagebox
 import threading as th
 from .Browser import Browser
 import json
+from .ConfigInfo import configInfo
 
 
 class GUI(tk.Tk):
@@ -12,7 +13,7 @@ class GUI(tk.Tk):
     def __init__(self):
         super().__init__()
         self.browser:Browser = None
-        self.title("Recepty 2.1")
+        self.title(f'{configInfo.name} {configInfo.version}')
 
         try:
             self.iconbitmap(r"src\resources\prescription_icon.ico")
