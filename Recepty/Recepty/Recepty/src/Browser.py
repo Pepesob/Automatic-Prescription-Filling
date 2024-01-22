@@ -61,7 +61,7 @@ class Browser:
 
         # --------------------
         # self.target_under_limit = {"P.072.00.D":"798736","P.071.00.B":"798732","P.072.01.D":"798740"} old codes
-        self.target_under_limit = {'O.01.01.01.B': '1903', 'O.01.02.00.D': '1895', 'O.01.02.01.D': '1899', 'O.01.01.00.B': '1891'}
+        self.target_under_limit = {'O.01.01.01.B': '1903', 'O.01.02.00.D': '1895', 'O.01.02.01.D': '2632765', 'O.01.01.00.B': '1891'}
         # self.szajna_all = {"P.072.00.D":"661935","P.074.00.D1":"1909208","P.074.00.D":"1909164","P.071.00.B":"661893",
         #                    "P.073.00.B1":"1909233","P.073.00.B":"1909186","P.072.01.D":"661956","P.074.01.D1":"1909198",
         #                    "P.074.01.D":"1909153"} old codes
@@ -222,7 +222,7 @@ class Browser:
         count = 0
 
         # to jest w miare dobre; muszę zawsze podświetlone zmieniać dlatego while
-        while count < 5:
+        while count < 2:
             try:
                 count += 0.02
                 podswietlone = self.driver.find_element(By.CLASS_NAME, "select2-results__option--highlighted")
