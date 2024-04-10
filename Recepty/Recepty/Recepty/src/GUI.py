@@ -51,9 +51,16 @@ class GUI(tk.Tk):
         self.button_password_change['command'] = self.password_change_popup_window
         self.button_password_change.grid(row=2,column=0,padx=5,pady=2)
 
+        self.login_dropdown_options = ["30002638", "wojtek1"]
+        self.login_dropdown_clicked = tk.StringVar()
+        self.login_dropdown_clicked.set(self.get_account_credentials()["login"])
+        self.login_dropdown_clicked.trace_add("write", lambda *_: self.on_dropdown_change())
+        self.login_dropdown = tk.OptionMenu(self, self.login_dropdown_clicked, *self.login_dropdown_options)
+        self.login_dropdown.grid(row=3,column=0,padx=5,pady=2)
+
         self.button_quit = tk.Button(self, text='Zamknij program')
         self.button_quit['command'] = self.end_program
-        self.button_quit.grid(row=3,column=0,padx=5,pady=2)
+        self.button_quit.grid(row=4,column=0,padx=5,pady=2)
 
         # --------------------------------------------------------------------
         """
@@ -73,6 +80,7 @@ class GUI(tk.Tk):
         self.button_temp4['command'] = self.temp4
         self.button_temp4.grid(row=3,column=2,padx=5,pady=2)
         """
+
 
     def disable_fill_buttons(self):
         self.button_fill_diff['state'] = 'disabled'
@@ -316,11 +324,7 @@ class GUI(tk.Tk):
     def password_change_popup_window(self):
         def func():
             new_password = input_password.get()
-            with open("src/resources/data.json","r") as f:
-                json_data = json.load(f)
-            json_data["password"] = new_password
-            with open("src/resources/data.json","w") as f:
-                json.dump(json_data,f,indent=1)
+            self.change_account_credentials(password=new_password)
             popup.destroy()
 
         popup = tk.Toplevel(self)
@@ -333,6 +337,25 @@ class GUI(tk.Tk):
         input_button = tk.Button(popup, text='Akceptuj')
         input_button['command'] = func
         input_button.pack()
+
+    def change_account_credentials(self,login=None,password=None):
+        with open("src/resources/data.json", "r") as f:
+            json_data = json.load(f)
+        if login is not None:
+            json_data["login"] = login
+        if password is not None:
+            json_data["password"] = password
+        with open("src/resources/data.json", "w") as f:
+            json.dump(json_data, f, indent=1)
+
+    def get_account_credentials(self):
+        with open("src/resources/data.json", "r") as f:
+            json_data = json.load(f)
+        return json_data
+
+    def on_dropdown_change(self):
+        new_login = self.login_dropdown_clicked.get()
+        self.change_account_credentials(login=new_login)
 
 
 if __name__ == "__main__":
