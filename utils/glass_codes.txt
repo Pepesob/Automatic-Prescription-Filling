@@ -1,0 +1,282 @@
+Kod: O.01.01.00.B;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO BLIŻY DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2632741', 'kod-prod-handl': '1562', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 15', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632635', 'kod-prod-handl': '1571', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'NEOLENS', 'model': 'IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632162', 'kod-prod-handl': '1439', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632625', 'kod-prod-handl': '1561', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632043', 'kod-prod-handl': '1565', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,49 HC', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632370', 'kod-prod-handl': '1568', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,5 WG', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631895', 'kod-prod-handl': '1843', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632606', 'kod-prod-handl': '1443', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632177', 'kod-prod-handl': '2225', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'PRAKTIS 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631945', 'kod-prod-handl': '1907', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR UTW', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631894', 'kod-prod-handl': '1574', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PRIMGLAS IN. 1,52', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632512', 'kod-prod-handl': '1573', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PROFIT IN 1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632229', 'kod-prod-handl': '2257', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632108', 'kod-prod-handl': '1891', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.02.00.D2;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2631925', 'kod-prod-handl': '2348', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/70', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632592', 'kod-prod-handl': '2350', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632523', 'kod-prod-handl': '2345', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632726', 'kod-prod-handl': '2351', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632416', 'kod-prod-handl': '2339', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 VTR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632586', 'kod-prod-handl': '2347', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631913', 'kod-prod-handl': '2340', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632795', 'kod-prod-handl': '2346', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632209', 'kod-prod-handl': '2349', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632383', 'kod-prod-handl': '2344', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.00.B1;   Limit ceny: 100.00;    Typ: SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO BLIŻY DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2631914', 'kod-prod-handl': '2323', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS RX 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632554', 'kod-prod-handl': '2320', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON IN. 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632806', 'kod-prod-handl': '2325', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632132', 'kod-prod-handl': '2330', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/55', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632560', 'kod-prod-handl': '2331', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632497', 'kod-prod-handl': '2328', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632015', 'kod-prod-handl': '2324', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632731', 'kod-prod-handl': '2329', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631923', 'kod-prod-handl': '2321', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 M', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632490', 'kod-prod-handl': '2322', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631990', 'kod-prod-handl': '2332', 'kod-srodka': 'O.01.01.00.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.01.B2.PR;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLIŻY DLA DZIECI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632187', 'kod-prod-handl': '2376', 'kod-srodka': 'O.01.01.01.B2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIPLAST 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.02.01.D2;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2632771', 'kod-prod-handl': '2333', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 VTR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632096', 'kod-prod-handl': '2337', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632066', 'kod-prod-handl': '2326', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632103', 'kod-prod-handl': '2327', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632182', 'kod-prod-handl': '2342', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/70', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632444', 'kod-prod-handl': '2338', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632459', 'kod-prod-handl': '2334', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632513', 'kod-prod-handl': '2336', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632492', 'kod-prod-handl': '2341', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632087', 'kod-prod-handl': '2335', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632627', 'kod-prod-handl': '2343', 'kod-srodka': 'O.01.02.01.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.01.B2;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLIŻY DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2631878', 'kod-prod-handl': '2367', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 V', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632556', 'kod-prod-handl': '2365', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632355', 'kod-prod-handl': '2369', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632350', 'kod-prod-handl': '2366', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632784', 'kod-prod-handl': '2370', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632809', 'kod-prod-handl': '2371', 'kod-srodka': 'O.01.01.01.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.02.00.D;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO DALI DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2632345', 'kod-prod-handl': '1855', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632437', 'kod-prod-handl': '2227', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'PRAKTIS 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631995', 'kod-prod-handl': '2266', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632472', 'kod-prod-handl': '1607', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,49 HC', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632236', 'kod-prod-handl': '1455', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632451', 'kod-prod-handl': '1616', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PRIMGLAS IN. 1,52', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631889', 'kod-prod-handl': '1615', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PROFIT IN 1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632369', 'kod-prod-handl': '1610', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,5 WG', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632333', 'kod-prod-handl': '1603', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632288', 'kod-prod-handl': '1920', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR UTW', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632783', 'kod-prod-handl': '1604', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 15', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632407', 'kod-prod-handl': '1441', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632079', 'kod-prod-handl': '1895', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632604', 'kod-prod-handl': '1613', 'kod-srodka': 'O.01.02.00.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'NEOLENS', 'model': 'IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.02.01.D1;   Limit ceny: 100.00;    Typ: SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO DALI DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2632052', 'kod-prod-handl': '2291', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631879', 'kod-prod-handl': '2298', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632246', 'kod-prod-handl': '2294', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/55', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632797', 'kod-prod-handl': '2295', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632005', 'kod-prod-handl': '2293', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632297', 'kod-prod-handl': '2289', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 M', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632455', 'kod-prod-handl': '2290', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632353', 'kod-prod-handl': '2296', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632607', 'kod-prod-handl': '2288', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON IN. 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632452', 'kod-prod-handl': '2292', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632623', 'kod-prod-handl': '2287', 'kod-srodka': 'O.01.02.01.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS RX 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.01.B1;   Limit ceny: 100.00;    Typ: SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR - DO BLIŻY DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2631908', 'kod-prod-handl': '2311', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS RX 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632718', 'kod-prod-handl': '2309', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 M', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632541', 'kod-prod-handl': '2315', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632588', 'kod-prod-handl': '2318', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631864', 'kod-prod-handl': '2319', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632679', 'kod-prod-handl': '2312', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON IN. 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632617', 'kod-prod-handl': '2310', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632629', 'kod-prod-handl': '2313', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631984', 'kod-prod-handl': '2317', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/55', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632605', 'kod-prod-handl': '2316', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632421', 'kod-prod-handl': '2314', 'kod-srodka': 'O.01.01.01.B1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.02.00.D1;   Limit ceny: 100.00;    Typ: SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO DALI DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2632069', 'kod-prod-handl': '2308', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632557', 'kod-prod-handl': '2304', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632150', 'kod-prod-handl': '2306', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/55', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632443', 'kod-prod-handl': '2305', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR/60', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632582', 'kod-prod-handl': '2303', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632263', 'kod-prod-handl': '2300', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 M', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632394', 'kod-prod-handl': '2307', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632536', 'kod-prod-handl': '2302', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632714', 'kod-prod-handl': '2297', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS RX 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632649', 'kod-prod-handl': '2299', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON IN. 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631962', 'kod-prod-handl': '2301', 'kod-srodka': 'O.01.02.00.D1', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.00.B2;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLIŻY DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2632636', 'kod-prod-handl': '2374', 'kod-srodka': 'O.01.01.00.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632660', 'kod-prod-handl': '2375', 'kod-srodka': 'O.01.01.00.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR 1,56 A', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632609', 'kod-prod-handl': '2372', 'kod-srodka': 'O.01.01.00.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 VTR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632023', 'kod-prod-handl': '2373', 'kod-srodka': 'O.01.01.00.B2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.06.01;   Limit ceny: 200.00;    Typ: LUPA PRODUKOWANA SERYJNIE
+Dostępne szkła:
+
+
+Kod: O.01.02.01.D;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO DALI DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2632495', 'kod-prod-handl': '1624', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632765', 'kod-prod-handl': '1899', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631898', 'kod-prod-handl': '1628', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,49 HC', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631911', 'kod-prod-handl': '2270', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632010', 'kod-prod-handl': '2228', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'PRAKTIS 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632483', 'kod-prod-handl': '1634', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'NEOLENS', 'model': 'IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631893', 'kod-prod-handl': '1442', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632143', 'kod-prod-handl': '1637', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PRIMGLAS IN. 1,52', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632647', 'kod-prod-handl': '1631', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,5 WG', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632090', 'kod-prod-handl': '1867', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632522', 'kod-prod-handl': '1625', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 15', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632068', 'kod-prod-handl': '1933', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR UTW', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632158', 'kod-prod-handl': '1461', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632631', 'kod-prod-handl': '1636', 'kod-srodka': 'O.01.02.01.D', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PROFIT IN 1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.01.01.B;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO BLIŻY DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2632107', 'kod-prod-handl': '1592', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'NEOLENS', 'model': 'IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632270', 'kod-prod-handl': '1582', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632016', 'kod-prod-handl': '1449', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632613', 'kod-prod-handl': '1595', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PRIMGLAS IN. 1,52', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632267', 'kod-prod-handl': '2226', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'PRAKTIS 150', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632310', 'kod-prod-handl': '1583', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKRON 15', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2631906', 'kod-prod-handl': '1589', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,5 WG', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632788', 'kod-prod-handl': '1594', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'PROFIT IN 1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632481', 'kod-prod-handl': '1440', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632405', 'kod-prod-handl': '1903', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632234', 'kod-prod-handl': '1879', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632423', 'kod-prod-handl': '2261', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'NEOLENS IN.1,5', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632203', 'kod-prod-handl': '1946', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'CR UTW', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+{'id-prod-handl': '2632172', 'kod-prod-handl': '1586', 'kod-srodka': 'O.01.01.01.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'UNIVERCE OPTICAL', 'model': 'IN.1,49 HC', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.09.01;   Limit ceny: 400.00;    Typ: OKULARY LORNETKOWE DO BLIŻY LUB DO DALI
+Dostępne szkła:
+
+
+Kod: O.01.02.00.D2.PR;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DLA DOROSŁYCH, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632251', 'kod-prod-handl': '2363', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,6', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632616', 'kod-prod-handl': '2368', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 VTR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632745', 'kod-prod-handl': '2360', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632777', 'kod-prod-handl': '2364', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,7', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632226', 'kod-prod-handl': '2362', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,52', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632457', 'kod-prod-handl': '2357', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIPLAST 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2631873', 'kod-prod-handl': '2361', 'kod-srodka': 'O.01.02.00.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.01.00.B2.PR;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLIŻY DLA DOROSŁYCH, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2631965', 'kod-prod-handl': '2377', 'kod-srodka': 'O.01.01.00.B2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIPLAST 1,6', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632237', 'kod-prod-handl': '2286', 'kod-srodka': 'O.01.01.00.B2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,6', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.01.02.01.D2.PR;   Limit ceny: 100.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DLA DZIECI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632202', 'kod-prod-handl': '2359', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 15', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632743', 'kod-prod-handl': '2353', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,52', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632134', 'kod-prod-handl': '2358', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOPLAST 150 VTR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632113', 'kod-prod-handl': '2352', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'JZO', 'model': 'IZOKORN 16', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632798', 'kod-prod-handl': '2355', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,7', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632478', 'kod-prod-handl': '2354', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIGAS 1,6', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+{'id-prod-handl': '2632325', 'kod-prod-handl': '2356', 'kod-srodka': 'O.01.02.01.D2.PR', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'SZAJNA', 'model': 'OPTIPLAST 1,5', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
+
+
+Kod: O.08.01;   Limit ceny: 400.00;    Typ: OKULARY LUPOWE
+Dostępne szkła:
+
+
+Kod: O.01.01.00.B.PR;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR- DO BLIŻY DOROŚLI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632279', 'kod-prod-handl': '2282', 'kod-srodka': 'O.01.01.00.B.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.07.01;   Limit ceny: 400.00;    Typ: MONOOKULAR
+Dostępne szkła:
+
+
+Kod: O.03.01;   Limit ceny: 150.00;    Typ: SOCZEWKA KONTAKTOWA MIĘKKA
+Dostępne szkła:
+{'id-prod-handl': '2631973', 'kod-prod-handl': '1433', 'kod-srodka': 'O.03.01', 'nazwa-handl': 'SOCZEWKA KONTAKTOWA MIĘKKA', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '150.00'}
+{'id-prod-handl': '2632030', 'kod-prod-handl': '1535', 'kod-srodka': 'O.03.01', 'nazwa-handl': 'SOCZEWKA KONTAKTOWA MIĘKKA', 'nazwa-prod': 'CIBA VISION', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '150.00'}
+
+
+Kod: O.01.02.00.D.PR;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR- DO DALI DOROŚLI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632098', 'kod-prod-handl': '2284', 'kod-srodka': 'O.01.02.00.D.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.01.01.B.PR;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR- DO BLIŻY DZIECI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632574', 'kod-prod-handl': '2283', 'kod-srodka': 'O.01.01.01.B.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.02.01.D.PR;   Limit ceny: 25.00;    Typ: SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO DALI DZIECI, W TYM SOCZEWKA Z MOCĄ PRYZMATYCZNĄ
+Dostępne szkła:
+{'id-prod-handl': '2632338', 'kod-prod-handl': '2285', 'kod-srodka': 'O.01.02.01.D.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
+
+
+Kod: O.01.01.00.B3;   Limit ceny: 350.00;    Typ: SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO BLIŻY DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2808934', 'kod-prod-handl': '1425', 'kod-srodka': 'O.01.01.00.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808952', 'kod-prod-handl': '3007', 'kod-srodka': 'O.01.01.00.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808943', 'kod-prod-handl': '1424', 'kod-srodka': 'O.01.01.00.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808953', 'kod-prod-handl': '3008', 'kod-srodka': 'O.01.01.00.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+
+
+Kod: O.01.01.01.B3;   Limit ceny: 350.00;    Typ: SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO BLIŻY DZIECI
+Dostępne szkła:
+{'id-prod-handl': '2808958', 'kod-prod-handl': '3012', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808963', 'kod-prod-handl': '3013', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808929', 'kod-prod-handl': '1434', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808939', 'kod-prod-handl': '1429', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808930', 'kod-prod-handl': '1435', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808950', 'kod-prod-handl': '3018', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808962', 'kod-prod-handl': '3017', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808925', 'kod-prod-handl': '1430', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+
+
+Kod: O.01.02.00.D3;   Limit ceny: 350.00;    Typ: SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO DALI DOROŚLI
+Dostępne szkła:
+{'id-prod-handl': '2808927', 'kod-prod-handl': '1420', 'kod-srodka': 'O.01.02.00.D3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808944', 'kod-prod-handl': '1419', 'kod-srodka': 'O.01.02.00.D3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808946', 'kod-prod-handl': '3003', 'kod-srodka': 'O.01.02.00.D3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+{'id-prod-handl': '2808945', 'kod-prod-handl': '3002', 'kod-srodka': 'O.01.02.00.D3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'ACCENT', 'model': 'ONYX 1.1 MR8\xa0', 'indyw-zamow': 'N', 'cena-brutto': '350.00'}
+
+
