@@ -70,6 +70,16 @@ class Browser:
                            "O.01.01.01.B2":"2371", "O.01.01.01.B":"1946", "O.01.02.00.D":"1920",
                            "O.01.02.01.D":"2632068", "O.01.01.00.B":"1907"}
 
+        self.glass_codes = {'O.01.02.00.D3': '2808927', 'O.01.01.01.B3': '2808963', 'O.01.01.00.B3': '2808934',
+                            'O.01.02.01.D.PR': '2632338', 'O.01.01.01.B.PR': '2632574', 'O.01.02.00.D.PR': '2632098',
+                            'O.03.01': '2632030', 'O.01.01.00.B.PR': '2632279', 'O.01.02.01.D2.PR': '2632325',
+                            'O.01.01.00.B2.PR': '2631965', 'O.01.02.00.D2.PR': '2632457', 'O.01.01.01.B': '2632405',
+                            'O.01.02.01.D': '2632765', 'O.01.01.00.B2': '2632660', 'O.01.02.00.D1': '2632536',
+                            'O.01.01.01.B1': '2632629', 'O.01.02.01.D1': '2632052', 'O.01.02.00.D': '2632079',
+                            'O.01.01.01.B2': '2632809', 'O.01.02.01.D2': '2632459', 'O.01.01.01.B2.PR': '2632187',
+                            'O.01.01.00.B1': '2632497', 'O.01.02.00.D2': '2632586', 'O.01.01.00.B': '2632108'}
+
+
     def select_on_begining(self):
         if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/pobrzlec" not in self.driver.current_url: # jeżeli jest na złej stronie
             raise ZeroDivisionError()
@@ -156,22 +166,15 @@ class Browser:
             kod_szkla = oko[1].accessible_name
             glasses_to_write.append((i,kod_szkla))
 
-        limit = self.check_limit(glasses_to_write)
-
         for i, code in glasses_to_write:
             print(code)
             try:
-                self.wpisz_szklo(i, code, limit)
+                self.wpisz_szklo(i, code)
             except:
                 print("Wystąpił błąd z {0} szkłem. Wypełnij sam {0} tabelkę".format(i + 1))
 
         self.wpisz_osobe_wydaj()
 
-    def check_limit(self,glasses_to_write):
-        for i, code in glasses_to_write:
-            if code not in self.target_under_limit:
-                return "over"
-        return "under"
 
     def wpisz_osobe_wydaj(self):
         imie = self.driver.find_element(By.NAME, "imie")
@@ -181,11 +184,8 @@ class Browser:
         nazwisko.send_keys(Keys.BACK_SPACE)
         nazwisko.send_keys("Sobczyńska")
 
-    def wpisz_szklo(self,szklo_z_kolei, kod_szkla_, limit):
-        if limit == "under":
-            numery_szkiel = self.target_under_limit
-        else:
-            numery_szkiel = self.szajna_all
+    def wpisz_szklo(self,szklo_z_kolei, kod_szkla_):
+        numery_szkiel = self.glass_codes
 
         numery_tabelek = ["170", "480", "790", "1100"]
 
@@ -237,6 +237,7 @@ class Browser:
             count += 0.02
         podswietlone.click()
 
+        time.sleep(0.1)
         self.driver.find_elements(By.NAME, "lbWydSztuk")[szklo_z_kolei].send_keys("1")
 
     def accept_patient_data(self):
