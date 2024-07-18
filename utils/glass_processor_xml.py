@@ -81,6 +81,16 @@ def print_entries(tree):
 # write_to_file(tree1)
 
 glasses_array = [
+{'id-prod-handl': '2808927', 'kod-prod-handl': '1420', 'kod-srodka': 'O.01.02.00.D3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'},
+
+{'id-prod-handl': '2808963', 'kod-prod-handl': '3013', 'kod-srodka': 'O.01.01.01.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'},
+
+{'id-prod-handl': '2808934', 'kod-prod-handl': '1425', 'kod-srodka': 'O.01.01.00.B3', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'RAKO CR', 'indyw-zamow': 'N', 'cena-brutto': '350.00'},
+
+{'id-prod-handl': '2632338', 'kod-prod-handl': '2285', 'kod-srodka': 'O.01.02.01.D.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'},
+
+{'id-prod-handl': '2632574', 'kod-prod-handl': '2283', 'kod-srodka': 'O.01.01.01.B.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'},
+
 {'id-prod-handl': '2632098', 'kod-prod-handl': '2284', 'kod-srodka': 'O.01.02.00.D.PR', 'nazwa-handl': 'SZKŁO OKULAROWE', 'nazwa-prod': 'JZO', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '25.00'},
 
 {'id-prod-handl': '2632030', 'kod-prod-handl': '1535', 'kod-srodka': 'O.03.01', 'nazwa-handl': 'SOCZEWKA KONTAKTOWA MIĘKKA', 'nazwa-prod': 'CIBA VISION', 'model': 'NIE DOTYCZY', 'indyw-zamow': 'N', 'cena-brutto': '150.00'},
@@ -119,6 +129,7 @@ glasses_array = [
 
 {'id-prod-handl': '2632586', 'kod-prod-handl': '2347', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'},
 
+{'id-prod-handl': '2632108', 'kod-prod-handl': '1891', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'},
 ]
 
 glasses_array_only_codes = {entry["kod-srodka"]: entry["id-prod-handl"] for entry in glasses_array}

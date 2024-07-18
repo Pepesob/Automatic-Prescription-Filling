@@ -6,7 +6,7 @@ from win32com.client import Dispatch
 
 
 def copy_directory_to_C(source_path: str):
-    dest_path = Path("C:/")
+    dest_path = Path("C:/Recepty")
     src_path = Path(source_path)
 
     shutil.copytree(src_path,dest_path,dirs_exist_ok=True)

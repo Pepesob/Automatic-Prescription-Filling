@@ -46,3 +46,4 @@
 
 {'id-prod-handl': '2632586', 'kod-prod-handl': '2347', 'kod-srodka': 'O.01.02.00.D2', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'RAKO', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '100.00'}
 
+{'id-prod-handl': '2632108', 'kod-prod-handl': '1891', 'kod-srodka': 'O.01.01.00.B', 'nazwa-handl': 'SOCZEWKA OKULAROWA', 'nazwa-prod': 'TARGET', 'model': 'CR', 'indyw-zamow': 'N', 'cena-brutto': '25.00'}
