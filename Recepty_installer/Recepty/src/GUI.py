@@ -294,10 +294,8 @@ class GUI(tk.Tk):
     def start_program(self):
 
         if self.browser is None:
-
             try:
                 self.browser = Browser()
-
             except:
                 print("\033[91m!!! Błąd przy uruchamianiu przeglądarki  !!!\033[00m")
                 messagebox.showinfo("Błąd", "Błąd przy uruchamianiu przeglądarki!")

@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.common import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from subprocess import CREATE_NO_WINDOW
@@ -36,9 +37,11 @@ class Browser:
 
         # inicjalizacja
         self.path = 'resources\\chromedriver.exe'
-        self.chrome_settings = Service(ChromeDriverManager().install())
-        self.chrome_settings.creation_flags = CREATE_NO_WINDOW
-        self.driver = webdriver.Chrome(service=self.chrome_settings)
+        self.chrome_service = Service(ChromeDriverManager().install())
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--disable-search-engine-choice-screen")
+        self.chrome_service.creation_flags = CREATE_NO_WINDOW
+        self.driver = webdriver.Chrome(service=self.chrome_service, options=self.chrome_options)
         self.driver.get("https://ezwm.nfz.gov.pl/ap-zz/user/zz/welcome@default")
 
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, "FFFRAXownfz")))
