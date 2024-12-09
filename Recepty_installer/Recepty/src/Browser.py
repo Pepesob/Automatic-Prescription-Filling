@@ -44,23 +44,23 @@ class Browser:
         self.driver = webdriver.Chrome(service=self.chrome_service, options=self.chrome_options)
         self.driver.get("https://ezwm.nfz.gov.pl/ap-zz/user/zz/welcome@default")
 
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, "FFFRAXownfz")))
-        select = self.driver.find_element(By.ID, "FFFRAXownfz")
-        all_options = select.find_elements(By.TAG_NAME, "option")
-        for option in all_options:
-            if option.get_attribute("value") == "ael_szb8eOEsC5mPBpiesg--":
-                option.click()
-                break
-
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXlogin")))
-        login = self.driver.find_element(By.NAME, "FFFRAXlogin")
-        login.send_keys(self.login)
-
-        haslo = self.driver.find_element(By.NAME, "FFFRAXpasw")
-        haslo.send_keys(self.password)
-
-        accept = self.driver.find_element(By.NAME, "sub1")
-        accept.click()
+        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, "FFFRAXownfz")))
+        # select = self.driver.find_element(By.ID, "FFFRAXownfz")
+        # all_options = select.find_elements(By.TAG_NAME, "option")
+        # for option in all_options:
+        #     if option.get_attribute("value") == "ael_szb8eOEsC5mPBpiesg--":
+        #         option.click()
+        #         break
+        #
+        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXlogin")))
+        # login = self.driver.find_element(By.NAME, "FFFRAXlogin")
+        # login.send_keys(self.login)
+        #
+        # haslo = self.driver.find_element(By.NAME, "FFFRAXpasw")
+        # haslo.send_keys(self.password)
+        #
+        # accept = self.driver.find_element(By.NAME, "sub1")
+        # accept.click()
 
         # --------------------
         # self.target_under_limit = {"P.072.00.D":"798736","P.071.00.B":"798732","P.072.01.D":"798740"} old codes
@@ -84,8 +84,8 @@ class Browser:
 
 
     def select_on_begining(self):
-        if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/pobrzlec" not in self.driver.current_url: # jeżeli jest na złej stronie
-            raise ZeroDivisionError()
+        # if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/pobrzlec" not in self.driver.current_url: # jeżeli jest na złej stronie
+        #     raise ZeroDivisionError()
 
         self.current_person_num = self.driver.find_element(By.NAME, "nr_zlec").get_attribute("value")
 
@@ -157,8 +157,8 @@ class Browser:
         button_next.click()
 
     def write_prescription(self):
-        if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/wydanewyrmed" not in self.driver.current_url: # jeżeli jest na złej stronie
-            raise ZeroDivisionError()
+        # if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/wydanewyrmed" not in self.driver.current_url: # jeżeli jest na złej stronie
+        #     raise ZeroDivisionError()
 
         tabelka = self.driver.find_element(By.CLASS_NAME, "tabnumber")
         dane_o_szklach = tabelka.find_elements(By.TAG_NAME, "tr")
