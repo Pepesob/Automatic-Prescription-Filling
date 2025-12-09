@@ -120,7 +120,7 @@ class Browser:
             WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "data")))
             first_row = self.driver.find_element(By.CLASS_NAME, "data")
             try:
-                table = first_row.find_element(By.XPATH, "//td[contains(text(),'{0}')]".format(self.current_person_num))
+                table = first_row.find_element(By.XPATH, "//*[contains(text(),'{0}')]".format(self.current_person_num))
                 drop_down = first_row.find_element(By.CLASS_NAME, "dropdown-content")
                 all_pages = drop_down.find_element(By.XPATH, "//a[contains(text(),'III i IV część')]")
             except:
