@@ -10,10 +10,11 @@ from .ConfigInfo import configInfo
 
 class GUI(tk.Tk):
 
-    def __init__(self):
+    def __init__(self, debug_mode=False):
         super().__init__()
         self.browser:Browser = None
         self.title(f'{configInfo.name} {configInfo.version}')
+        self.debug_mode = debug_mode
 
         try:
             self.iconbitmap(r"src\resources\prescription_icon.ico")
@@ -63,23 +64,23 @@ class GUI(tk.Tk):
         self.button_quit.grid(row=4,column=0,padx=5,pady=2)
 
         # --------------------------------------------------------------------
-        """
-        self.button_temp = tk.Button(self, text='Wypełnij pierwsze okno')
-        self.button_temp['command'] = self.temp
-        self.button_temp.grid(row=0,column=2,padx=5,pady=2)
+        if debug_mode:
+            self.button_temp = tk.Button(self, text='Wypełnij pierwsze okno')
+            self.button_temp['command'] = self.temp
+            self.button_temp.grid(row=0,column=2,padx=5,pady=2)
 
-        self.button_temp2 = tk.Button(self, text='Domowe okno po wypisaniu recepty')
-        self.button_temp2['command'] = self.temp2
-        self.button_temp2.grid(row=1,column=2,padx=5,pady=2)
+            self.button_temp2 = tk.Button(self, text='Domowe okno po wypisaniu recepty')
+            self.button_temp2['command'] = self.temp2
+            self.button_temp2.grid(row=1,column=2,padx=5,pady=2)
 
-        self.button_temp3 = tk.Button(self, text='Domowe okno po dodaniu do realizacji')
-        self.button_temp3['command'] = self.temp3
-        self.button_temp3.grid(row=2,column=2,padx=5,pady=2)
+            self.button_temp3 = tk.Button(self, text='Domowe okno po dodaniu do realizacji')
+            self.button_temp3['command'] = self.temp3
+            self.button_temp3.grid(row=2,column=2,padx=5,pady=2)
 
-        self.button_temp4 = tk.Button(self, text='Wypisz inne imie i nazwisko')
-        self.button_temp4['command'] = self.temp4
-        self.button_temp4.grid(row=3,column=2,padx=5,pady=2)
-        """
+            self.button_temp4 = tk.Button(self, text='Wypisz inne imie i nazwisko')
+            self.button_temp4['command'] = self.temp4
+            self.button_temp4.grid(row=3,column=2,padx=5,pady=2)
+        
 
 
     def disable_fill_buttons(self):

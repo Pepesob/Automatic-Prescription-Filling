@@ -18,66 +18,13 @@ import os
 def generate_2fa_token(seed: str) -> str:
     raise NotImplementedError()
 
+# TODO - maybe add correct site valitation, however urls tend to change
 
 class Browser:
 
     def __init__(self):
-        self.login = ""
-        self.password = ""
-        self.branch = "Lubelski (03)"
-        self.seed_2fa = ""
-
-        self.current_person_num = "0-23-000000000-0"
-
-        self.diff_receiver_name = ""
-        self.diff_receiver_surrname = ""
-        self.diff_receiver_pesel = ""
-        with open(os.path.join(os.path.dirname(__file__), "resources", "data.json")) as f:
-            dict_data = json.load(f)
-            self.login = dict_data["login"]
-            self.password = dict_data["password"]
-
-
-        # if self.login == "" or self.password == "": # why did I even add this here?
-        #     return
-
-        # inicjalizacja
-        self.path = 'resources\\chromedriver.exe'
-        self.chrome_service = Service(ChromeDriverManager().install())
-        self.chrome_options = Options()
-        self.chrome_options.add_argument("--disable-search-engine-choice-screen")
-        self.chrome_service.creation_flags = CREATE_NO_WINDOW
-        self.driver = webdriver.Chrome(service=self.chrome_service, options=self.chrome_options)
-        self.driver.get("https://ezwm.nfz.gov.pl/ap-zz/user/zz/welcome@default")
-
-        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, "FFFRAXownfz")))
-        # select = self.driver.find_element(By.ID, "FFFRAXownfz")
-        # all_options = select.find_elements(By.TAG_NAME, "option")
-        # for option in all_options:
-        #     if option.get_attribute("value") == "ael_szb8eOEsC5mPBpiesg--":
-        #         option.click()
-        #         break
-        #
-        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXlogin")))
-        # login = self.driver.find_element(By.NAME, "FFFRAXlogin")
-        # login.send_keys(self.login)
-        #
-        # haslo = self.driver.find_element(By.NAME, "FFFRAXpasw")
-        # haslo.send_keys(self.password)
-        #
-        # accept = self.driver.find_element(By.NAME, "sub1")
-        # accept.click()
-
-        self.click_login_begining()
-        self.select_branch()
-        self.write_credentials()
-
-        # --------------------
-        # self.target_under_limit = {"P.072.00.D":"798736","P.071.00.B":"798732","P.072.01.D":"798740"} old codes
         self.target_under_limit = {'O.01.01.01.B': '1903', 'O.01.02.00.D': '1895', 'O.01.02.01.D': '2632765', 'O.01.01.00.B': '1891'}
-        # self.szajna_all = {"P.072.00.D":"661935","P.074.00.D1":"1909208","P.074.00.D":"1909164","P.071.00.B":"661893",
-        #                    "P.073.00.B1":"1909233","P.073.00.B":"1909186","P.072.01.D":"661956","P.074.01.D1":"1909198",
-        #                    "P.074.01.D":"1909153"} old codes
+
         self.szajna_all = {"O.01.01.01.B1":"2313", "O.01.02.00.D1":"2302", "O.01.02.00.D2":"2344",
                            "O.01.02.01.D2":"2336", "O.01.02.01.D1":"2632052", "O.01.01.00.B1":"2324",
                            "O.01.01.01.B2":"2371", "O.01.01.01.B":"1946", "O.01.02.00.D":"1920",
@@ -92,11 +39,36 @@ class Browser:
                             'O.01.01.01.B2': '2632809', 'O.01.02.01.D2': '2632459', 'O.01.01.01.B2.PR': '2632187',
                             'O.01.01.00.B1': '2632497', 'O.01.02.00.D2': '2632586', 'O.01.01.00.B': '2632108'}
 
+        self.current_person_num = "0-23-000000000-0"
+
+        self.diff_receiver_name = ""
+        self.diff_receiver_surrname = ""
+        self.diff_receiver_pesel = ""
+
+        self.login = ""
+        self.password = ""
+        self.branch = "Lubelski (03)"
+        self.seed_2fa = ""
+
+        with open(os.path.join(os.path.dirname(__file__), "resources", "data.json")) as f:
+            dict_data = json.load(f)
+            self.login = dict_data["login"]
+            self.password = dict_data["password"]
+
+        # inicjalizacja
+        self.path = 'resources\\chromedriver.exe'
+        self.chrome_service = Service(ChromeDriverManager().install())
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--disable-search-engine-choice-screen")
+        self.chrome_service.creation_flags = CREATE_NO_WINDOW
+        self.driver = webdriver.Chrome(service=self.chrome_service, options=self.chrome_options)
+        self.driver.get("https://ezwm.nfz.gov.pl/ap-zz/user/zz/welcome@default")
+        self.click_login_begining()
+        self.select_branch()
+        self.write_credentials()
+
 
     def select_on_begining(self):
-        # if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/pobrzlec" not in self.driver.current_url: # jeżeli jest na złej stronie
-        #     raise ZeroDivisionError()
-
         self.current_person_num = self.driver.find_element(By.NAME, "nr_zlec").get_attribute("value")
 
         first_select = self.driver.find_element(By.ID, "select2-nrUmowyMiejSwd-container")
@@ -167,9 +139,6 @@ class Browser:
         button_next.click()
 
     def write_prescription(self):
-        # if "https://ezwm.nfz.gov.pl/ap-zz/user/zz/wydanewyrmed" not in self.driver.current_url: # jeżeli jest na złej stronie
-        #     raise ZeroDivisionError()
-
         tabelka = self.driver.find_element(By.CLASS_NAME, "tabnumber")
         dane_o_szklach = tabelka.find_elements(By.TAG_NAME, "tr")
         glasses_to_write = []
@@ -186,15 +155,14 @@ class Browser:
             except:
                 print("Wystąpił błąd z {0} szkłem. Wypełnij sam {0} tabelkę".format(i + 1))
 
-        # self.wpisz_osobe_wydaj()
 
-
+    # TODO - Somehow sending clear to the element does not clear inupt, this function in current state does not work properly
+    # It seems that those fields are filled automatically in current state of the NFZ system, it is not currently needed
     def wpisz_osobe_wydaj(self):
+        raise NotImplementedError("FIXME: This function does not work properly in current state")
         imie = self.driver.find_element(By.NAME, "imie")
-        # imie.send_keys(Keys.BACK_SPACE)
         imie.send_keys("Agnieszka")
         nazwisko = self.driver.find_element(By.NAME, "nazwisko")
-        # nazwisko.send_keys(Keys.BACK_SPACE)
         nazwisko.clear()
         nazwisko.send_keys("Sobczyńska")
 
@@ -220,7 +188,6 @@ class Browser:
         except:
             raise NoSuchElementException()
 
-        #opcje_wyrob = driver.find_element(By.ID, "select2-kodPrzedmDic{0}-results".format(szklo_z_kolei))
         opcje_wyrob.click()
 
         self.driver.find_element(By.ID, "select2-kodProdhanDic{0}-container".format(numery_tabelek[szklo_z_kolei])).click()
@@ -235,7 +202,6 @@ class Browser:
 
         count = 0
 
-        # to jest w miare dobre; muszę zawsze podświetlone zmieniać dlatego while
         while count < 2:
             try:
                 count += 0.02
