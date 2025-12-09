@@ -15,11 +15,17 @@ import json
 import os
 
 
+def generate_2fa_token(seed: str) -> str:
+    raise NotImplementedError()
+
+
 class Browser:
 
     def __init__(self):
         self.login = ""
         self.password = ""
+        self.branch = "Lubelski (03)"
+        self.seed_2fa = ""
 
         self.current_person_num = "0-23-000000000-0"
 
@@ -61,6 +67,10 @@ class Browser:
         #
         # accept = self.driver.find_element(By.NAME, "sub1")
         # accept.click()
+
+        self.click_login_begining()
+        self.select_branch()
+        self.write_credentials()
 
         # --------------------
         # self.target_under_limit = {"P.072.00.D":"798736","P.071.00.B":"798732","P.072.01.D":"798740"} old codes
@@ -176,21 +186,22 @@ class Browser:
             except:
                 print("Wystąpił błąd z {0} szkłem. Wypełnij sam {0} tabelkę".format(i + 1))
 
-        self.wpisz_osobe_wydaj()
+        # self.wpisz_osobe_wydaj()
 
 
     def wpisz_osobe_wydaj(self):
         imie = self.driver.find_element(By.NAME, "imie")
-        imie.send_keys(Keys.BACK_SPACE)
+        # imie.send_keys(Keys.BACK_SPACE)
         imie.send_keys("Agnieszka")
         nazwisko = self.driver.find_element(By.NAME, "nazwisko")
-        nazwisko.send_keys(Keys.BACK_SPACE)
+        # nazwisko.send_keys(Keys.BACK_SPACE)
+        nazwisko.clear()
         nazwisko.send_keys("Sobczyńska")
 
     def wpisz_szklo(self,szklo_z_kolei, kod_szkla_):
         numery_szkiel = self.glass_codes
 
-        numery_tabelek = ["170", "480", "790", "1100"]
+        numery_tabelek = ["190", "500", "810", "1120"]
 
         if kod_szkla_ not in numery_szkiel:
             print("Szkło {0} nie w normie. Wypełnij {0} tabelę".format(szklo_z_kolei+1))
@@ -272,3 +283,32 @@ class Browser:
         self.diff_receiver_name = ""
         self.diff_receiver_surrname = ""
 
+    def click_login_begining(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "sub1")))
+        accept = self.driver.find_element(By.NAME, "sub1")
+        accept.click()
+    
+    def select_branch(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXownfz")))
+        select_element = self.driver.find_element(By.ID, 'FFFRAXownfz')
+        select = Select(select_element)
+        select.select_by_visible_text(self.branch)
+    
+    def write_credentials(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXlogin")))
+        login = self.driver.find_element(By.NAME, "FFFRAXlogin")
+        login.send_keys(self.login)
+        
+        haslo = self.driver.find_element(By.NAME, "FFFRAXpasw")
+        haslo.send_keys(self.password)
+        
+        accept = self.driver.find_element(By.NAME, "sub1")
+        accept.click()
+
+    def write_2fa_token(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRIQ06totp")))
+        field_2fa = self.driver.find_element(By.NAME, 'FFFRIQ06totp')
+        field_2fa.send_keys(generate_2fa_token(self.seed_2fa))
+
+        accept = self.driver.find_element(By.NAME, "sub1")
+        accept.click()

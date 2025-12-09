@@ -296,8 +296,9 @@ class GUI(tk.Tk):
         if self.browser is None:
             try:
                 self.browser = Browser()
-            except:
+            except Exception as e:
                 print("\033[91m!!! Błąd przy uruchamianiu przeglądarki  !!!\033[00m")
+                print(e)
                 messagebox.showinfo("Błąd", "Błąd przy uruchamianiu przeglądarki!")
             self.button_start.config(text="Wyłącz przeglądarkę")
             self.enable_fill_buttons()
