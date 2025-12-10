@@ -6,6 +6,7 @@ import threading as th
 from .Browser import Browser
 import json
 from .ConfigInfo import configInfo
+from .User import User, UserService
 
 
 class GUI(tk.Tk):
@@ -15,6 +16,8 @@ class GUI(tk.Tk):
         self.browser:Browser = None
         self.title(f'{configInfo.name} {configInfo.version}')
         self.debug_mode = debug_mode
+
+        self.user_service: UserService = UserService()
 
         try:
             self.iconbitmap(r"src\resources\prescription_icon.ico")
@@ -52,10 +55,10 @@ class GUI(tk.Tk):
         self.button_password_change['command'] = self.password_change_popup_window
         self.button_password_change.grid(row=2,column=0,padx=5,pady=2)
 
-        self.login_dropdown_options = ["30002638", "wojtek1"]
+        self.login_dropdown_options = map(lambda x: x.login, self.user_service.get_all_users())
         self.login_dropdown_clicked = tk.StringVar()
-        self.login_dropdown_clicked.set(self.get_account_credentials()["login"])
-        self.login_dropdown_clicked.trace_add("write", lambda *_: self.on_dropdown_change())
+        self.login_dropdown_clicked.set(self.user_service.get_all_users()[0].login)
+        # self.login_dropdown_clicked.trace_add("write", lambda *_: self.on_dropdown_change())
         self.login_dropdown = tk.OptionMenu(self, self.login_dropdown_clicked, *self.login_dropdown_options)
         self.login_dropdown.grid(row=3,column=0,padx=5,pady=2)
 
@@ -295,12 +298,20 @@ class GUI(tk.Tk):
     def start_program(self):
 
         if self.browser is None:
+            current_user_login = self.login_dropdown_clicked.get()
+            current_user = self.user_service.get_by_login(current_user_login)
+            if current_user.password == "":
+                messagebox.showinfo("Uwaga", "Nie ustawiono hasła dla tego użytkownika, kliknij 'Zmień hasło' aby ustawić nowe")
+                return
             try:
-                self.browser = Browser()
+                self.browser = Browser(current_user)
+                self.browser.click_login_begining()
+                self.browser.select_branch()
+                self.browser.write_credentials()
             except Exception as e:
                 print("\033[91m!!! Błąd przy uruchamianiu przeglądarki  !!!\033[00m")
                 print(e)
-                messagebox.showinfo("Błąd", "Błąd przy uruchamianiu przeglądarki!")
+                messagebox.showinfo("Błąd", "Błąd przy uruchamianiu przeglądarki, zaloguj się samodzielnie!")
             self.button_start.config(text="Wyłącz przeglądarkę")
             self.enable_fill_buttons()
         else:
