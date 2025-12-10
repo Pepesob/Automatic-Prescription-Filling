@@ -11,9 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
-import json
-import os
-from .User import UserService, User
+from .User import User
 
 
 def generate_2fa_token(seed: str) -> str:

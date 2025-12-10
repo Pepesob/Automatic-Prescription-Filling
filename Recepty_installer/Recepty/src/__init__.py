@@ -1,4 +1,4 @@
 from .GUI import GUI
-from .ConfigInfo import configInfo
+from .Config import ConfigService
 
 

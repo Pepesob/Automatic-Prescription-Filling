@@ -5,7 +5,7 @@ from tkinter import messagebox
 import threading as th
 from .Browser import Browser
 import json
-from .ConfigInfo import configInfo
+from .Config import ConfigService
 from .User import User, UserService
 
 
@@ -13,11 +13,15 @@ class GUI(tk.Tk):
 
     def __init__(self, debug_mode=False):
         super().__init__()
-        self.browser:Browser = None
-        self.title(f'{configInfo.name} {configInfo.version}')
-        self.debug_mode = debug_mode
 
         self.user_service: UserService = UserService()
+        self.config_service: ConfigService = ConfigService()
+
+        self.browser:Browser = None
+        config = self.config_service.get_config()
+        print(f"{config.name} (wersja {config.version})")
+        self.title(f'{config.name} {config.version}')
+        self.debug_mode = debug_mode
 
         try:
             self.iconbitmap(r"src\resources\prescription_icon.ico")
@@ -335,7 +339,10 @@ class GUI(tk.Tk):
     def password_change_popup_window(self):
         def func():
             new_password = input_password.get()
-            self.change_account_credentials(password=new_password)
+            current_user_login = self.login_dropdown_clicked.get()
+            current_user = self.user_service.get_by_login(current_user_login)
+            current_user.password = new_password
+            self.user_service.edit_user(current_user)
             popup.destroy()
 
         popup = tk.Toplevel(self)
@@ -348,26 +355,6 @@ class GUI(tk.Tk):
         input_button = tk.Button(popup, text='Akceptuj')
         input_button['command'] = func
         input_button.pack()
-
-    def change_account_credentials(self,login=None,password=None):
-        with open("src/resources/data.json", "r") as f:
-            json_data = json.load(f)
-        if login is not None:
-            json_data["login"] = login
-        if password is not None:
-            json_data["password"] = password
-        with open("src/resources/data.json", "w") as f:
-            json.dump(json_data, f, indent=1)
-
-    def get_account_credentials(self):
-        with open("src/resources/data.json", "r") as f:
-            json_data = json.load(f)
-        return json_data
-
-    def on_dropdown_change(self):
-        new_login = self.login_dropdown_clicked.get()
-        self.change_account_credentials(login=new_login)
-
 
 if __name__ == "__main__":
     gui = GUI()

@@ -1,20 +1,20 @@
 [
-{
- "login": "wojtek1",
- "password": "",
- "branch": "Lubelski (03)",
- "seed_2fa": ""
-},
-{
- "login": "gohag",
- "password": "",
- "branch": "Lubelski (03)",
- "seed_2fa": ""
-},
-{
- "login": "30002638",
- "password": "",
- "branch": "Lubelski (03)",
- "seed_2fa": ""
-}
+    {
+        "login": "wojtek1",
+        "password": "",
+        "branch": "Lubelski (03)",
+        "seed_2fa": ""
+    },
+    {
+        "login": "gohag",
+        "password": "",
+        "branch": "Lubelski (03)",
+        "seed_2fa": ""
+    },
+    {
+        "login": "30002638",
+        "password": "",
+        "branch": "Lubelski (03)",
+        "seed_2fa": ""
+    }
 ]

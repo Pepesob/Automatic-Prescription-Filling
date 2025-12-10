@@ -24,6 +24,11 @@ class UserService:
         users = self._read_data_file()
         users.append(user)
         self._write_data_file(users)
+
+    def edit_user(self, user: User):
+        users = self._read_data_file()
+        new_users = [old_user if old_user.login != user.login else user for old_user in users]
+        self._write_data_file(new_users)
     
     def delete_user(self, login: str):
         users = self._read_data_file()
@@ -50,7 +55,7 @@ class UserService:
             return users
     
     def _write_data_file(self, users: list[User]):
-        with open(self.data_path, encoding="utf-8") as f:
+        with open(self.data_path, "w", encoding="utf-8") as f:
             dict_data = []
             for user in users:
                 dict_data.append(asdict(user))
