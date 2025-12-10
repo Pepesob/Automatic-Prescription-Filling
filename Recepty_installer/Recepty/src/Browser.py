@@ -11,8 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
-import json
-import os
+from .User import User
 
 
 def generate_2fa_token(seed: str) -> str:
@@ -22,7 +21,7 @@ def generate_2fa_token(seed: str) -> str:
 
 class Browser:
 
-    def __init__(self):
+    def __init__(self, user: User):
         self.target_under_limit = {'O.01.01.01.B': '1903', 'O.01.02.00.D': '1895', 'O.01.02.01.D': '2632765', 'O.01.01.00.B': '1891'}
 
         self.szajna_all = {"O.01.01.01.B1":"2313", "O.01.02.00.D1":"2302", "O.01.02.00.D2":"2344",
@@ -45,27 +44,15 @@ class Browser:
         self.diff_receiver_surrname = ""
         self.diff_receiver_pesel = ""
 
-        self.login = ""
-        self.password = ""
-        self.branch = "Lubelski (03)"
-        self.seed_2fa = ""
-
-        with open(os.path.join(os.path.dirname(__file__), "resources", "data.json")) as f:
-            dict_data = json.load(f)
-            self.login = dict_data["login"]
-            self.password = dict_data["password"]
+        self.user = user
 
         # inicjalizacja
-        self.path = 'resources\\chromedriver.exe'
         self.chrome_service = Service(ChromeDriverManager().install())
         self.chrome_options = Options()
         self.chrome_options.add_argument("--disable-search-engine-choice-screen")
         self.chrome_service.creation_flags = CREATE_NO_WINDOW
         self.driver = webdriver.Chrome(service=self.chrome_service, options=self.chrome_options)
         self.driver.get("https://ezwm.nfz.gov.pl/ap-zz/user/zz/welcome@default")
-        self.click_login_begining()
-        self.select_branch()
-        self.write_credentials()
 
 
     def select_on_begining(self):
@@ -258,15 +245,15 @@ class Browser:
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXownfz")))
         select_element = self.driver.find_element(By.ID, 'FFFRAXownfz')
         select = Select(select_element)
-        select.select_by_visible_text(self.branch)
+        select.select_by_visible_text(self.user.branch)
     
     def write_credentials(self):
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRAXlogin")))
         login = self.driver.find_element(By.NAME, "FFFRAXlogin")
-        login.send_keys(self.login)
+        login.send_keys(self.user.login)
         
         haslo = self.driver.find_element(By.NAME, "FFFRAXpasw")
-        haslo.send_keys(self.password)
+        haslo.send_keys(self.user.password)
         
         accept = self.driver.find_element(By.NAME, "sub1")
         accept.click()
@@ -274,7 +261,7 @@ class Browser:
     def write_2fa_token(self):
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, "FFFRIQ06totp")))
         field_2fa = self.driver.find_element(By.NAME, 'FFFRIQ06totp')
-        field_2fa.send_keys(generate_2fa_token(self.seed_2fa))
+        field_2fa.send_keys(generate_2fa_token(self.user.seed_2fa))
 
         accept = self.driver.find_element(By.NAME, "sub1")
         accept.click()
