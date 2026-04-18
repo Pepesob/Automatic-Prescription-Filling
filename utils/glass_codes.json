@@ -1,0 +1,3006 @@
+{
+    "O.01.01.00.B": {
+        "limit": "25.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO BLI\u017bY DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2631933",
+                "kod-prod-handl": "1909",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "39.00"
+            },
+            {
+                "id-prod-handl": "2632661",
+                "kod-prod-handl": "1911",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "50.00"
+            },
+            {
+                "id-prod-handl": "2632657",
+                "kod-prod-handl": "1910",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2631968",
+                "kod-prod-handl": "1576",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2631945",
+                "kod-prod-handl": "1907",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR UTW",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632317",
+                "kod-prod-handl": "1575",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2631894",
+                "kod-prod-handl": "1574",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PRIMGLAS IN. 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632512",
+                "kod-prod-handl": "1573",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632577",
+                "kod-prod-handl": "1912",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2632569",
+                "kod-prod-handl": "1908",
+                "kod-srodka": "O.01.01.00.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "35.00"
+            }
+        ]
+    },
+    "O.01.01.00.B1": {
+        "limit": "100.00",
+        "description": "SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO BLI\u017bY DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632432",
+                "kod-prod-handl": "2073",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2631996",
+                "kod-prod-handl": "2114",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632304",
+                "kod-prod-handl": "2116",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "160.00"
+            },
+            {
+                "id-prod-handl": "2632199",
+                "kod-prod-handl": "2119",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632337",
+                "kod-prod-handl": "2071",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632806",
+                "kod-prod-handl": "2325",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632132",
+                "kod-prod-handl": "2330",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632560",
+                "kod-prod-handl": "2331",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632497",
+                "kod-prod-handl": "2328",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632506",
+                "kod-prod-handl": "2074",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 14,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2632488",
+                "kod-prod-handl": "2072",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632507",
+                "kod-prod-handl": "2117",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,359",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632156",
+                "kod-prod-handl": "2075",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632151",
+                "kod-prod-handl": "1661",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGLAS 1,8",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632565",
+                "kod-prod-handl": "2076",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632283",
+                "kod-prod-handl": "2118",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632510",
+                "kod-prod-handl": "1655",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "119.00"
+            },
+            {
+                "id-prod-handl": "2632015",
+                "kod-prod-handl": "2324",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632731",
+                "kod-prod-handl": "2329",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632053",
+                "kod-prod-handl": "2115",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632525",
+                "kod-prod-handl": "2277",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632188",
+                "kod-prod-handl": "1657",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2631869",
+                "kod-prod-handl": "1658",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632368",
+                "kod-prod-handl": "2120",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "260.00"
+            },
+            {
+                "id-prod-handl": "2632396",
+                "kod-prod-handl": "1656",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "179.00"
+            },
+            {
+                "id-prod-handl": "2631990",
+                "kod-prod-handl": "2332",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631904",
+                "kod-prod-handl": "2121",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632101",
+                "kod-prod-handl": "2276",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2632287",
+                "kod-prod-handl": "2113",
+                "kod-srodka": "O.01.01.00.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            }
+        ]
+    },
+    "O.01.01.01.B2.PR": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLI\u017bY DLA DZIECI, W TYM SOCZEWKA Z MOC\u0104 PRYZMATYCZN\u0104",
+        "glasses": [
+            {
+                "id-prod-handl": "2632800",
+                "kod-prod-handl": "1807",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632349",
+                "kod-prod-handl": "2240",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632414",
+                "kod-prod-handl": "2242",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632046",
+                "kod-prod-handl": "1808",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632747",
+                "kod-prod-handl": "2241",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632282",
+                "kod-prod-handl": "1806",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632187",
+                "kod-prod-handl": "2376",
+                "kod-srodka": "O.01.01.01.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            }
+        ]
+    },
+    "O.01.02.01.D2": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632735",
+                "kod-prod-handl": "2049",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "199.00"
+            },
+            {
+                "id-prod-handl": "2632096",
+                "kod-prod-handl": "2337",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632012",
+                "kod-prod-handl": "2052",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632511",
+                "kod-prod-handl": "1998",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632182",
+                "kod-prod-handl": "2342",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632323",
+                "kod-prod-handl": "2053",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632460",
+                "kod-prod-handl": "2045",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2632444",
+                "kod-prod-handl": "2338",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632459",
+                "kod-prod-handl": "2334",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632513",
+                "kod-prod-handl": "2336",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631942",
+                "kod-prod-handl": "2002",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632410",
+                "kod-prod-handl": "2048",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632492",
+                "kod-prod-handl": "2341",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632029",
+                "kod-prod-handl": "1997",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632715",
+                "kod-prod-handl": "1999",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2632087",
+                "kod-prod-handl": "2335",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632036",
+                "kod-prod-handl": "2046",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2631868",
+                "kod-prod-handl": "2000",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632125",
+                "kod-prod-handl": "1776",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632627",
+                "kod-prod-handl": "2343",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632463",
+                "kod-prod-handl": "1775",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632473",
+                "kod-prod-handl": "2047",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "130.00"
+            },
+            {
+                "id-prod-handl": "2632060",
+                "kod-prod-handl": "2050",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632262",
+                "kod-prod-handl": "2051",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632227",
+                "kod-prod-handl": "1774",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632095",
+                "kod-prod-handl": "2001",
+                "kod-srodka": "O.01.02.01.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            }
+        ]
+    },
+    "O.01.01.01.B2": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLI\u017bY DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2631912",
+                "kod-prod-handl": "1990",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632380",
+                "kod-prod-handl": "1988",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2631993",
+                "kod-prod-handl": "2034",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "130.00"
+            },
+            {
+                "id-prod-handl": "2632185",
+                "kod-prod-handl": "2032",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2632469",
+                "kod-prod-handl": "1743",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632171",
+                "kod-prod-handl": "2040",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632339",
+                "kod-prod-handl": "2036",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "199.00"
+            },
+            {
+                "id-prod-handl": "2632355",
+                "kod-prod-handl": "2369",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632659",
+                "kod-prod-handl": "2039",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632749",
+                "kod-prod-handl": "1986",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632518",
+                "kod-prod-handl": "1991",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632247",
+                "kod-prod-handl": "2038",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632680",
+                "kod-prod-handl": "1742",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632784",
+                "kod-prod-handl": "2370",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632809",
+                "kod-prod-handl": "2371",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632372",
+                "kod-prod-handl": "1744",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632259",
+                "kod-prod-handl": "2037",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632320",
+                "kod-prod-handl": "2035",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632024",
+                "kod-prod-handl": "1989",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632768",
+                "kod-prod-handl": "1987",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632041",
+                "kod-prod-handl": "2033",
+                "kod-srodka": "O.01.01.01.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            }
+        ]
+    },
+    "O.01.02.00.D": {
+        "limit": "25.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO DALI DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632764",
+                "kod-prod-handl": "1617",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2631970",
+                "kod-prod-handl": "1923",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2632451",
+                "kod-prod-handl": "1616",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PRIMGLAS IN. 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2631889",
+                "kod-prod-handl": "1615",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632021",
+                "kod-prod-handl": "1924",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "50.00"
+            },
+            {
+                "id-prod-handl": "2632417",
+                "kod-prod-handl": "1922",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "39.00"
+            },
+            {
+                "id-prod-handl": "2632288",
+                "kod-prod-handl": "1920",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR UTW",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632819",
+                "kod-prod-handl": "1618",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2631875",
+                "kod-prod-handl": "1921",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "35.00"
+            },
+            {
+                "id-prod-handl": "2632377",
+                "kod-prod-handl": "1925",
+                "kod-srodka": "O.01.02.00.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            }
+        ]
+    },
+    "O.01.01.01.B1": {
+        "limit": "100.00",
+        "description": "SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR - DO BLI\u017bY DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632559",
+                "kod-prod-handl": "2137",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2632514",
+                "kod-prod-handl": "1675",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632671",
+                "kod-prod-handl": "2139",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632078",
+                "kod-prod-handl": "2145",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632541",
+                "kod-prod-handl": "2315",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632071",
+                "kod-prod-handl": "2140",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "160.00"
+            },
+            {
+                "id-prod-handl": "2632085",
+                "kod-prod-handl": "2142",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632588",
+                "kod-prod-handl": "2318",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631864",
+                "kod-prod-handl": "2319",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632778",
+                "kod-prod-handl": "2141",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,359",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632083",
+                "kod-prod-handl": "1674",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632629",
+                "kod-prod-handl": "2313",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632013",
+                "kod-prod-handl": "2094",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632456",
+                "kod-prod-handl": "2138",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632131",
+                "kod-prod-handl": "2096",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 14,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2631984",
+                "kod-prod-handl": "2317",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632805",
+                "kod-prod-handl": "2278",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2631871",
+                "kod-prod-handl": "1672",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "119.00"
+            },
+            {
+                "id-prod-handl": "2632605",
+                "kod-prod-handl": "2316",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631902",
+                "kod-prod-handl": "2143",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2631881",
+                "kod-prod-handl": "2095",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2632421",
+                "kod-prod-handl": "2314",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632442",
+                "kod-prod-handl": "2097",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2631930",
+                "kod-prod-handl": "1673",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "179.00"
+            },
+            {
+                "id-prod-handl": "2631966",
+                "kod-prod-handl": "1678",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGLAS 1,8",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632309",
+                "kod-prod-handl": "2093",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632155",
+                "kod-prod-handl": "2098",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632373",
+                "kod-prod-handl": "2144",
+                "kod-srodka": "O.01.01.01.B1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "260.00"
+            }
+        ]
+    },
+    "O.01.02.00.D1": {
+        "limit": "100.00",
+        "description": "SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO DALI DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632543",
+                "kod-prod-handl": "2060",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632223",
+                "kod-prod-handl": "1695",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGLAS 1,8",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632804",
+                "kod-prod-handl": "2107",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632597",
+                "kod-prod-handl": "2109",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632069",
+                "kod-prod-handl": "2308",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632707",
+                "kod-prod-handl": "2104",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "160.00"
+            },
+            {
+                "id-prod-handl": "2632019",
+                "kod-prod-handl": "1689",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "119.00"
+            },
+            {
+                "id-prod-handl": "2632157",
+                "kod-prod-handl": "2063",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 14,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2632736",
+                "kod-prod-handl": "2106",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632300",
+                "kod-prod-handl": "2064",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632769",
+                "kod-prod-handl": "2105",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,359",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2631865",
+                "kod-prod-handl": "1690",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "179.00"
+            },
+            {
+                "id-prod-handl": "2632557",
+                "kod-prod-handl": "2304",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632716",
+                "kod-prod-handl": "2102",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632150",
+                "kod-prod-handl": "2306",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632443",
+                "kod-prod-handl": "2305",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632582",
+                "kod-prod-handl": "2303",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632316",
+                "kod-prod-handl": "1692",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632453",
+                "kod-prod-handl": "2062",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2632398",
+                "kod-prod-handl": "2065",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632250",
+                "kod-prod-handl": "2108",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "260.00"
+            },
+            {
+                "id-prod-handl": "2631883",
+                "kod-prod-handl": "2103",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632394",
+                "kod-prod-handl": "2307",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632773",
+                "kod-prod-handl": "2101",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2631960",
+                "kod-prod-handl": "2061",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632425",
+                "kod-prod-handl": "2279",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2632536",
+                "kod-prod-handl": "2302",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632663",
+                "kod-prod-handl": "2280",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2631880",
+                "kod-prod-handl": "1691",
+                "kod-srodka": "O.01.02.00.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            }
+        ]
+    },
+    "O.01.01.00.B2": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLI\u017bY DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632660",
+                "kod-prod-handl": "2375",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632254",
+                "kod-prod-handl": "2014",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632612",
+                "kod-prod-handl": "2009",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632399",
+                "kod-prod-handl": "1969",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632130",
+                "kod-prod-handl": "1728",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632082",
+                "kod-prod-handl": "1964",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632038",
+                "kod-prod-handl": "1967",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632055",
+                "kod-prod-handl": "2008",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "130.00"
+            },
+            {
+                "id-prod-handl": "2632258",
+                "kod-prod-handl": "1965",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632366",
+                "kod-prod-handl": "1966",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2632610",
+                "kod-prod-handl": "2006",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2632645",
+                "kod-prod-handl": "2010",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "199.00"
+            },
+            {
+                "id-prod-handl": "2632253",
+                "kod-prod-handl": "1727",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632097",
+                "kod-prod-handl": "1968",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2631941",
+                "kod-prod-handl": "2007",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632578",
+                "kod-prod-handl": "2012",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632794",
+                "kod-prod-handl": "2013",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632603",
+                "kod-prod-handl": "1726",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632028",
+                "kod-prod-handl": "2011",
+                "kod-srodka": "O.01.01.00.B2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            }
+        ]
+    },
+    "O.01.02.00.D2": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632639",
+                "kod-prod-handl": "2019",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2631925",
+                "kod-prod-handl": "2348",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632392",
+                "kod-prod-handl": "1758",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632766",
+                "kod-prod-handl": "1975",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632592",
+                "kod-prod-handl": "2350",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632523",
+                "kod-prod-handl": "2345",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632051",
+                "kod-prod-handl": "2027",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632343",
+                "kod-prod-handl": "1976",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2631882",
+                "kod-prod-handl": "1979",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632726",
+                "kod-prod-handl": "2351",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632115",
+                "kod-prod-handl": "2026",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2631870",
+                "kod-prod-handl": "1980",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632586",
+                "kod-prod-handl": "2347",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631863",
+                "kod-prod-handl": "2020",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632795",
+                "kod-prod-handl": "2346",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632761",
+                "kod-prod-handl": "2023",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "199.00"
+            },
+            {
+                "id-prod-handl": "2632135",
+                "kod-prod-handl": "1759",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632281",
+                "kod-prod-handl": "2025",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "250.00"
+            },
+            {
+                "id-prod-handl": "2632164",
+                "kod-prod-handl": "1760",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632402",
+                "kod-prod-handl": "2024",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632209",
+                "kod-prod-handl": "2349",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632630",
+                "kod-prod-handl": "2022",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632782",
+                "kod-prod-handl": "2021",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "130.00"
+            },
+            {
+                "id-prod-handl": "2632167",
+                "kod-prod-handl": "1977",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2631917",
+                "kod-prod-handl": "1978",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632383",
+                "kod-prod-handl": "2344",
+                "kod-srodka": "O.01.02.00.D2",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            }
+        ]
+    },
+    "O.01.02.01.D1": {
+        "limit": "100.00",
+        "description": "SFERA OD 6,25 DPTR I CYLINDER OD 0,00 DPTR- DO DALI DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2631891",
+                "kod-prod-handl": "2086",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632052",
+                "kod-prod-handl": "2291",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632215",
+                "kod-prod-handl": "2126",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632774",
+                "kod-prod-handl": "1707",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "179.00"
+            },
+            {
+                "id-prod-handl": "2631879",
+                "kod-prod-handl": "2298",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631928",
+                "kod-prod-handl": "2125",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5 K",
+                "indyw-zamow": "N",
+                "cena-brutto": "110.00"
+            },
+            {
+                "id-prod-handl": "2632246",
+                "kod-prod-handl": "2294",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632447",
+                "kod-prod-handl": "2083",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,61",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632062",
+                "kod-prod-handl": "2128",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "160.00"
+            },
+            {
+                "id-prod-handl": "2632797",
+                "kod-prod-handl": "2295",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632005",
+                "kod-prod-handl": "2293",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632011",
+                "kod-prod-handl": "2130",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,6 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "220.00"
+            },
+            {
+                "id-prod-handl": "2632549",
+                "kod-prod-handl": "1708",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632408",
+                "kod-prod-handl": "2281",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2631934",
+                "kod-prod-handl": "2082",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 SC",
+                "indyw-zamow": "N",
+                "cena-brutto": "120.00"
+            },
+            {
+                "id-prod-handl": "2632812",
+                "kod-prod-handl": "2132",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "260.00"
+            },
+            {
+                "id-prod-handl": "2632260",
+                "kod-prod-handl": "1706",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "119.00"
+            },
+            {
+                "id-prod-handl": "2632301",
+                "kod-prod-handl": "2129",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,359",
+                "indyw-zamow": "N",
+                "cena-brutto": "200.00"
+            },
+            {
+                "id-prod-handl": "2632353",
+                "kod-prod-handl": "2296",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632693",
+                "kod-prod-handl": "2085",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 14,67 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "230.00"
+            },
+            {
+                "id-prod-handl": "2632493",
+                "kod-prod-handl": "2133",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2632664",
+                "kod-prod-handl": "1712",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGLAS 1,8",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632359",
+                "kod-prod-handl": "2131",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "240.00"
+            },
+            {
+                "id-prod-handl": "2632452",
+                "kod-prod-handl": "2292",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632424",
+                "kod-prod-handl": "2084",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,67",
+                "indyw-zamow": "N",
+                "cena-brutto": "180.00"
+            },
+            {
+                "id-prod-handl": "2631977",
+                "kod-prod-handl": "1709",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "280.00"
+            },
+            {
+                "id-prod-handl": "2632027",
+                "kod-prod-handl": "2127",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56 A",
+                "indyw-zamow": "N",
+                "cena-brutto": "140.00"
+            },
+            {
+                "id-prod-handl": "2632494",
+                "kod-prod-handl": "2087",
+                "kod-srodka": "O.01.02.01.D1",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "CR 1,74",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            }
+        ]
+    },
+    "O.01.02.01.D": {
+        "limit": "25.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO DALI DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632759",
+                "kod-prod-handl": "1639",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2632348",
+                "kod-prod-handl": "1638",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2632540",
+                "kod-prod-handl": "1934",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "35.00"
+            },
+            {
+                "id-prod-handl": "2632670",
+                "kod-prod-handl": "1935",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "39.00"
+            },
+            {
+                "id-prod-handl": "2632615",
+                "kod-prod-handl": "1936",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2632143",
+                "kod-prod-handl": "1637",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PRIMGLAS IN. 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632491",
+                "kod-prod-handl": "1937",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "50.00"
+            },
+            {
+                "id-prod-handl": "2632072",
+                "kod-prod-handl": "1938",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2632068",
+                "kod-prod-handl": "1933",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR UTW",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632631",
+                "kod-prod-handl": "1636",
+                "kod-srodka": "O.01.02.01.D",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            }
+        ]
+    },
+    "O.01.02.00.D2.PR": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DLA DOROS\u0141YCH, W TYM SOCZEWKA Z MOC\u0104 PRYZMATYCZN\u0104",
+        "glasses": [
+            {
+                "id-prod-handl": "2632251",
+                "kod-prod-handl": "2363",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2631862",
+                "kod-prod-handl": "1823",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632817",
+                "kod-prod-handl": "2248",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632145",
+                "kod-prod-handl": "1824",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632785",
+                "kod-prod-handl": "2247",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632777",
+                "kod-prod-handl": "2364",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632226",
+                "kod-prod-handl": "2362",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632014",
+                "kod-prod-handl": "2249",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632365",
+                "kod-prod-handl": "1822",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632457",
+                "kod-prod-handl": "2357",
+                "kod-srodka": "O.01.02.00.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            }
+        ]
+    },
+    "O.01.02.01.D2.PR": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO DALI DLA DZIECI, W TYM SOCZEWKA Z MOC\u0104 PRYZMATYCZN\u0104",
+        "glasses": [
+            {
+                "id-prod-handl": "2632086",
+                "kod-prod-handl": "1838",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632743",
+                "kod-prod-handl": "2353",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632231",
+                "kod-prod-handl": "1840",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632539",
+                "kod-prod-handl": "2255",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632517",
+                "kod-prod-handl": "2254",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632796",
+                "kod-prod-handl": "2256",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632798",
+                "kod-prod-handl": "2355",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,7",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632478",
+                "kod-prod-handl": "2354",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632325",
+                "kod-prod-handl": "2356",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632776",
+                "kod-prod-handl": "1839",
+                "kod-srodka": "O.01.02.01.D2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            }
+        ]
+    },
+    "O.01.01.00.B2.PR": {
+        "limit": "100.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER OD 2,25 DPTR - DO BLI\u017bY DLA DOROS\u0141YCH, W TYM SOCZEWKA Z MOC\u0104 PRYZMATYCZN\u0104",
+        "glasses": [
+            {
+                "id-prod-handl": "2632701",
+                "kod-prod-handl": "1790",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            },
+            {
+                "id-prod-handl": "2632579",
+                "kod-prod-handl": "2234",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632608",
+                "kod-prod-handl": "1792",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2631965",
+                "kod-prod-handl": "2377",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632474",
+                "kod-prod-handl": "1791",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,6 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "210.00"
+            },
+            {
+                "id-prod-handl": "2632306",
+                "kod-prod-handl": "2235",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,67 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "297.00"
+            },
+            {
+                "id-prod-handl": "2632237",
+                "kod-prod-handl": "2286",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIGAS 1,6",
+                "indyw-zamow": "N",
+                "cena-brutto": "100.00"
+            },
+            {
+                "id-prod-handl": "2632479",
+                "kod-prod-handl": "2233",
+                "kod-srodka": "O.01.01.00.B2.PR",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST 1,56 ASF",
+                "indyw-zamow": "N",
+                "cena-brutto": "146.00"
+            }
+        ]
+    },
+    "O.01.01.01.B": {
+        "limit": "25.00",
+        "description": "SFERA DO 6,00 DPTR I CYLINDER DO 2,00 DPTR - DO BLI\u017bY DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2632779",
+                "kod-prod-handl": "1948",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/55",
+                "indyw-zamow": "N",
+                "cena-brutto": "39.00"
+            },
+            {
+                "id-prod-handl": "2632739",
+                "kod-prod-handl": "1951",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2632613",
+                "kod-prod-handl": "1595",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PRIMGLAS IN. 1,52",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632296",
+                "kod-prod-handl": "1596",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            },
+            {
+                "id-prod-handl": "2632788",
+                "kod-prod-handl": "1594",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "PROFIT IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632622",
+                "kod-prod-handl": "1950",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR 1,56",
+                "indyw-zamow": "N",
+                "cena-brutto": "50.00"
+            },
+            {
+                "id-prod-handl": "2632203",
+                "kod-prod-handl": "1946",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR UTW",
+                "indyw-zamow": "N",
+                "cena-brutto": "25.00"
+            },
+            {
+                "id-prod-handl": "2632395",
+                "kod-prod-handl": "1597",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "OPTIPLAST IN 1,5",
+                "indyw-zamow": "N",
+                "cena-brutto": "79.00"
+            },
+            {
+                "id-prod-handl": "2632336",
+                "kod-prod-handl": "1947",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/60",
+                "indyw-zamow": "N",
+                "cena-brutto": "35.00"
+            },
+            {
+                "id-prod-handl": "2632628",
+                "kod-prod-handl": "1949",
+                "kod-srodka": "O.01.01.01.B",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "SZAJNA",
+                "model": "CR/70",
+                "indyw-zamow": "N",
+                "cena-brutto": "49.00"
+            }
+        ]
+    },
+    "O.01.01.00.B3": {
+        "limit": "350.00",
+        "description": "SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO BLI\u017bY DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2808934",
+                "kod-prod-handl": "1425",
+                "kod-srodka": "O.01.01.00.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2808953",
+                "kod-prod-handl": "3008",
+                "kod-srodka": "O.01.01.00.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            }
+        ]
+    },
+    "O.01.01.01.B3": {
+        "limit": "350.00",
+        "description": "SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO BLI\u017bY DZIECI",
+        "glasses": [
+            {
+                "id-prod-handl": "2808963",
+                "kod-prod-handl": "3013",
+                "kod-srodka": "O.01.01.01.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2808930",
+                "kod-prod-handl": "1435",
+                "kod-srodka": "O.01.01.01.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2808950",
+                "kod-prod-handl": "3018",
+                "kod-srodka": "O.01.01.01.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2808925",
+                "kod-prod-handl": "1430",
+                "kod-srodka": "O.01.01.01.B3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            }
+        ]
+    },
+    "O.01.02.00.D3": {
+        "limit": "350.00",
+        "description": "SFERA OD 10,00 DPTR I CYLINDER OD 0,00 DPTR - DO DALI DORO\u015aLI",
+        "glasses": [
+            {
+                "id-prod-handl": "2808927",
+                "kod-prod-handl": "1420",
+                "kod-srodka": "O.01.02.00.D3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            },
+            {
+                "id-prod-handl": "2808946",
+                "kod-prod-handl": "3003",
+                "kod-srodka": "O.01.02.00.D3",
+                "nazwa-handl": "SOCZEWKA OKULAROWA",
+                "nazwa-prod": "RAKO",
+                "model": "RAKO CR",
+                "indyw-zamow": "N",
+                "cena-brutto": "350.00"
+            }
+        ]
+    }
+}
