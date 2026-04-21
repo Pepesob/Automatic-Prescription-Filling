@@ -185,7 +185,8 @@ class Browser:
         except:
             raise NoSuchElementException()
 
-        wybor_produkt.send_keys(numery_szkiel[kod_szkla_])
+        kod_produktu = numery_szkiel[kod_szkla_]
+        wybor_produkt.send_keys(kod_produktu)
 
         count = 0
 
@@ -196,7 +197,7 @@ class Browser:
             except:
                 continue
             try:
-                if podswietlone.find_element(By.CLASS_NAME,"label-info").text == str(numery_szkiel[kod_szkla_]):
+                if podswietlone.find_element(By.CLASS_NAME,"label-info").text == str(kod_produktu):
                     break
             except:
                 pass
