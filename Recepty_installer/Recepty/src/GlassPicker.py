@@ -1,12 +1,15 @@
 import json
 import random
+import os
 
+
+_glass_codes_file_path = os.path.join(os.path.dirname(__file__), "resources", "glass_codes.json")
 _glass_codes = None
 
 def load_glass_codes() -> dict:
     global _glass_codes
     if _glass_codes is None:
-        with open("./resources/glass_codes.json", "r", encoding="utf-8") as f:
+        with open(_glass_codes_file_path, "r", encoding="utf-8") as f:
             _glass_codes = json.load(f)
     return _glass_codes
 
