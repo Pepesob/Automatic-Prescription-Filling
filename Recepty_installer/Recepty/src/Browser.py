@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 from webdriver_manager.chrome import ChromeDriverManager
 from .User import User
+from .GlassPicker import GlassPicker
 
 
 def generate_2fa_token(seed: str) -> str:
@@ -22,22 +23,6 @@ def generate_2fa_token(seed: str) -> str:
 class Browser:
 
     def __init__(self, user: User):
-        self.target_under_limit = {'O.01.01.01.B': '1903', 'O.01.02.00.D': '1895', 'O.01.02.01.D': '2632765', 'O.01.01.00.B': '1891'}
-
-        self.szajna_all = {"O.01.01.01.B1":"2313", "O.01.02.00.D1":"2302", "O.01.02.00.D2":"2344",
-                           "O.01.02.01.D2":"2336", "O.01.02.01.D1":"2632052", "O.01.01.00.B1":"2324",
-                           "O.01.01.01.B2":"2371", "O.01.01.01.B":"1946", "O.01.02.00.D":"1920",
-                           "O.01.02.01.D":"2632068", "O.01.01.00.B":"1907"}
-
-        self.glass_codes = {'O.01.02.00.D3': '2808927', 'O.01.01.01.B3': '2808963', 'O.01.01.00.B3': '2808934',
-                            'O.01.02.01.D.PR': '2632338', 'O.01.01.01.B.PR': '2632574', 'O.01.02.00.D.PR': '2632098',
-                            'O.03.01': '2632030', 'O.01.01.00.B.PR': '2632279', 'O.01.02.01.D2.PR': '2632325',
-                            'O.01.01.00.B2.PR': '2631965', 'O.01.02.00.D2.PR': '2632457', 'O.01.01.01.B': '2632405',
-                            'O.01.02.01.D': '2632765', 'O.01.01.00.B2': '2632660', 'O.01.02.00.D1': '2632536',
-                            'O.01.01.01.B1': '2632629', 'O.01.02.01.D1': '2632052', 'O.01.02.00.D': '2632079',
-                            'O.01.01.01.B2': '2632809', 'O.01.02.01.D2': '2632459', 'O.01.01.01.B2.PR': '2632187',
-                            'O.01.01.00.B1': '2632497', 'O.01.02.00.D2': '2632586', 'O.01.01.00.B': '2632108'}
-
         self.current_person_num = "0-23-000000000-0"
 
         self.diff_receiver_name = ""
@@ -129,6 +114,7 @@ class Browser:
         tabelka = self.driver.find_element(By.CLASS_NAME, "tabnumber")
         dane_o_szklach = tabelka.find_elements(By.TAG_NAME, "tr")
         glasses_to_write = []
+        glass_picker = GlassPicker()
 
         for i, oko in enumerate(dane_o_szklach[1:]):
             oko = oko.find_elements(By.TAG_NAME, "td")
@@ -136,9 +122,9 @@ class Browser:
             glasses_to_write.append((i,kod_szkla))
 
         for i, code in glasses_to_write:
-            print(code)
             try:
-                self.wpisz_szklo(i, code)
+                product_id = glass_picker.pick_id(code)
+                self.wpisz_szklo(i, product_id)
             except:
                 print("Wystąpił błąd z {0} szkłem. Wypełnij sam {0} tabelkę".format(i + 1))
 
@@ -153,14 +139,8 @@ class Browser:
         nazwisko.clear()
         nazwisko.send_keys("Sobczyńska")
 
-    def wpisz_szklo(self,szklo_z_kolei, kod_szkla_):
-        numery_szkiel = self.glass_codes
-
+    def wpisz_szklo(self,szklo_z_kolei, product_id):
         numery_tabelek = ["190", "500", "810", "1120"]
-
-        if kod_szkla_ not in numery_szkiel:
-            print("Szkło {0} nie w normie. Wypełnij {0} tabelę".format(szklo_z_kolei+1))
-            return
 
         WebDriverWait(self.driver, 5).until(
             EC.presence_of_element_located((By.ID, "select2-kodPrzedmDic{0}-container".format(szklo_z_kolei)))
@@ -185,7 +165,7 @@ class Browser:
         except:
             raise NoSuchElementException()
 
-        kod_produktu = numery_szkiel[kod_szkla_]
+        kod_produktu = product_id
         wybor_produkt.send_keys(kod_produktu)
 
         count = 0
